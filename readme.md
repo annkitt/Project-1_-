@@ -9,7 +9,7 @@
 
 ## Project 1 [Live link]()
 
--Skills Gained in this project 
+Skills Gained in this project 
     -Learned to use Css Positon [Relative & Absolute] property.
     -Learned to use pseudo classes like **:nth-child(),:last-child(), :first-child**.
     -Learned to create underline on navbar link using **::after & ::before** pseudo elements.
