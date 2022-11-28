@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 1 [Live link]()
+## Project 1 [Live link](https://streetstyleproj.netlify.app/)
 
 -Skills Gained in this project 
     -Learned to use Css Positon [Relative & Absolute] property.
